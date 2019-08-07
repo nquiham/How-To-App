@@ -1,0 +1,4 @@
+﻿
+SQLite - Copyright (c) Krueger Systems, Inc.
+Website: https://www.nuget.org/packages/sqlite-net-pcl/
+License: https://github.com/praeclarum/sqlite-net/blob/master/LICENSE
